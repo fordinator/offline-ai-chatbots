@@ -1,5 +1,5 @@
 # offline-ai-chatbots
-A repository for my chatbots that can accept voice input and respond with voice input.
+A repository for my chatbots that can accept voice input and respond with voice output.
 
 An eternal WIP based on [this](https://github.com/vndee/local-talking-llm) and [this](https://github.com/jakobdylanc/llmcord).
 
